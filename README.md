@@ -2,7 +2,7 @@
 
 I'm Rémi Maissa, alias xXRem08Xx,
 
-I am a young French developer of 19 years old, currently studying web design and software programming.
+I am a young French developer of 20 years old, currently studying web design and software programming.
 
 Passionate about artificial intelligence 😍 and video games 🎮, I want to go into a field that allows me to combine and practice the 2 activities. 💪
 
