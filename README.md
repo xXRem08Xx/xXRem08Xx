@@ -18,7 +18,7 @@ I also like to read fantasy, science fiction or manga books
 
 <img align="left" alt="linux" width="30px" style="padding-right:11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="MySql" width="30px" style="padding-right:11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
 
 <img align="left" alt="vsCode" width="30px" style="padding-right:11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" />
